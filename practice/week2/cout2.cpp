@@ -3,17 +3,17 @@
 using namespace std;
 
 int main() {
-	char character = 'C';  //character¸¦ ¹®ÀÚÇüÀ¸·Î ÀúÀå
-	int integer = 100;    //integer Àº Á¤¼öÇü
-	double precision = 3.14159;    //precision ´Â ½Ç¼öÇü
-	bool is_true = true;        //is_true´Â ³í¸®Çü
-	string word = "Hello World"; //word´Â ¹®ÀÚ¿­
-
+	char character = 'C';  //ë¬¸ìí˜• ë³€ìˆ˜ì— C í• ë‹¹
+	int integer = 100;    //ì •ìˆ˜í˜• ë³€ìˆ˜ì— 100 í• ë‹¹
+	double precision = 3.14159;    //ì‹¤ìˆ˜í˜• ë³€ìˆ˜ì— 3.14159 í• ë‹¹
+	bool is_true = true;        //ë…¼ë¦¬í˜• ë³€ìˆ˜ì— true í• ë‹¹
+	string word = "Hello World"; //ë¬¸ìì—´ ë³€ìˆ˜ì— Hello World í• ë‹¹
+ 
 	cout << "char : " << character << endl;
 	cout << "int : " << integer << endl;
 	cout << "double : " << precision << endl;
 	cout << "bool : " << is_true << endl;
-	cout << "string : " << word << endl;
+	cout << "string : " << word << endl; //ì¶œë ¥
 
 	return 0;
 }

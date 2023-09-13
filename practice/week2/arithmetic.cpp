@@ -2,11 +2,12 @@
 using namespace std;
 
 int main() {
-	int one = 1;
-	int two = 2;
-	int three = 3;
-	int four = 4;         //°¢ º¯¼ö Á¤¼ö °ª ÀúÀå
+	int one = 1;   //ë³€ìˆ˜ oneì— ì •ìˆ˜ ê°’ í• ë‹¹
+	int two = 2;   //ë³€ìˆ˜ twoì— ì •ìˆ˜ ê°’ í• ë‹¹
+	int three = 3; //ë³€ìˆ˜ threeì— ì •ìˆ˜ ê°’ í• ë‹¹
+	int four = 4;  //ë³€ìˆ˜ fourì— ì •ìˆ˜ ê°’ í• ë‹¹       
 
+	//ê° ì‹ì— ë§ëŠ” ì—°ì‚°ì„ í•˜ì—¬ ì¶œë ¥
 	cout << "1 + 3 = " << one + three << endl;
 	cout << "4 - 2 = " << four - two << endl;
 	cout << "2 * 3 = " << two * three << endl;
@@ -14,7 +15,7 @@ int main() {
 
 	cout << "2 + 3 * 4 = " << two + three * four << endl;
 	cout << "2 + 3 * 4 = " << two + three * four << endl;
-	cout << "1 + 4 / 2 = " << one + four / two << endl;  //½Ä¿¡ ¸Â´Â °ª Ãâ·Â
+	cout << "1 + 4 / 2 = " << one + four / two << endl; 
 
 	return 0;
 }
