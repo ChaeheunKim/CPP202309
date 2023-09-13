@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-	char character = 'C';  //character¸¦ ¹®ÀÚÇüÀ¸·Î ÀúÀå
-	int integer = 100;    //integer Àº Á¤¼öÇü
-	double precision = 3.14159;    //precision ´Â ½Ç¼öÇü
-	bool is_true = true;        //is_true´Â ³í¸®Çü
-	string word = "Hello World"; //word´Â ¹®ÀÚ¿­
+	char character = 'C';  //ë¬¸ìí˜• ë³€ìˆ˜ì— C í• ë‹¹
+	int integer = 100;    //ì •ìˆ˜í˜• ë³€ìˆ˜ì— 100 í• ë‹¹
+	double precision = 3.14159;    //precision ëŠ” ì‹¤ìˆ˜í˜•
+	bool is_true = true;        //is_trueëŠ” ë…¼ë¦¬í˜•
+	string word = "Hello World"; //wordëŠ” ë¬¸ìì—´
 
 	cout << "char : " << character << endl;
 	cout << "int : " << integer << endl;
