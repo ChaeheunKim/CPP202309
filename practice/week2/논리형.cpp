@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	bool b;    //³í¸®Çü b¿¡ true -> 1 Ãâ·Â
+	bool b;    //b ë³€ìˆ˜ê°€ true -> 1 ì¶œë ¥
 	b = true;   
 	cout << b;
 	return 0;
