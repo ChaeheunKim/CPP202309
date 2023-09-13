@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-	int one = 1; //one ÀÌ¶ó´Â º¯¼ö¿¡ 1 Á¤¼ö ÀúÀå
-	int two = 2; //two ¶ó´Â º¯¼ö¿¡ 2 Á¤¼ö ÀúÀå
-	int sum = one + two;  // sumÀÌ¶ó´Â º¯¼ö¿¡ one°ú two ´õÇÑ °ª ÀúÀå
+	int one = 1; //one ë³€ìˆ˜ì— 1 ì •ìˆ˜ í• ë‹¹
+	int two = 2; //two ë³€ìˆ˜ì— 2 ì •ìˆ˜ í• ë‹¹
+	int sum = one + two;  // sum ë³€ìˆ˜ì— oneê³¼ two ë”í•œ ê°’ í• ë‹¹
 
-	cout << "1+2= " << sum << endl;  //Ãâ·Â
+	cout << "1+2= " << sum << endl;  //ì¶œë ¥
 
 	return 0;
 }
