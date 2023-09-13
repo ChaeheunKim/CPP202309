@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-	int number = 0;  //number 0À¸·Î ÃÊ±âÈ­
-	cin >> number; //Á¤¼öÇü ÀĞ¾î¼­ number¿¡ ÀúÀå
-	cout << "ÀÔ·ÂÇÑ ¼ıÀÚ´Â " << number << " ÀÔ´Ï´Ù" << endl; // Ãâ·Â
+	int number = 0;  //number 0ìœ¼ë¡œ ì´ˆê¸°í™”
+	cin >> number; //ì •ìˆ˜í˜• ì…ë ¥ ë°›ì•„ ì½ì–´ì„œ numberì— ì €ì¥
+	cout << "ì…ë ¥í•œ ìˆ«ìëŠ” " << number << " ì…ë‹ˆë‹¤" << endl; // ì¶œë ¥
 	return 0;
 }
